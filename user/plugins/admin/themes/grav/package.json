@@ -36,7 +36,7 @@
     "toastr": "^2.1.4",
     "watchjs": "0.0.0",
     "whatwg-fetch": "^3.6.2",
-    "yarn": "^1.22.10"
+    "yarn": "^1.22.13"
   },
   "devDependencies": {
     "@babel/core": "^7.14.0",
